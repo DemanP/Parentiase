@@ -29,7 +29,7 @@
 
 		"outerColor": [95, 35, 168],
 		"innerColor": [66, 110, 255],
-		
+		"uniques": ["[+10]%[Culture] from City-States","[+15]%[Faith] from every [Temple]", "[+1 Faith] from all [Culture] buildings"],
 		"cities": ["Parentaise","Noano","Rando","Hilando","Vespera"]
 	}
 ]
