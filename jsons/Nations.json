@@ -4,7 +4,7 @@
 		"leaderName": "Ran & Noa",
 		"adjective": ["parent"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Great Parents greet thy soul!",
 		"startIntroPart2": "See through mischief of mutants and do thy judgement!",
@@ -27,12 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [95, 35, 168],
+		"innerColor": [66, 110, 255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Parentaise","Noano","Rando","Hilando","Vespera"]
 	}
 ]
